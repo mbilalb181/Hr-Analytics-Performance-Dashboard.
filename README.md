@@ -24,7 +24,7 @@ The raw dataset contained unformatted columns, raw dates, missing values, and un
 ---
 
 ## 🖥️ Executive Interactive Dashboard
-![HR Analytics Dashboard](https://raw.githubusercontent.com/your-username/hr-analytics-performance-dashboard/main/images/dashboard.png)
+![HR Analytics Dashboard](https://github.com/mbilalb181/Hr-Analytics-Performance-Dashboard./blob/main/Screenshot%20of%20Dashboard.png)
 
 ---
 
