@@ -112,3 +112,20 @@ HR & TRAINING PERFORMANCE DASHBOARD.xlsx
 ├── Employees by Course            # Course enrollment breakdowns
 ├── Internal vs External Training  # Cost split analysis
 └── HR Analytics Dashboard         # Interactive executive dashboard
+```
+---
+
+## 🚀 How to Run & View
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/hr-analytics-dashboard.git](https://github.com/your-username/hr-analytics-dashboard.git)
+   ## 👏 Thank You for Visiting!
+---
+Thank you so much for taking the time to explore this project! 🌟
+
+If you found this dashboard insightful or helpful for your own work:
+
+- ⭐ **Leave a Star:** Please consider starring this repository to show your support!
+- 🔔 **Follow for More:** Follow my profile to stay updated on future data analytics, data cleaning, and business intelligence projects.
+
+Happy Analyzing! 🚀
