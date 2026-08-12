@@ -6,13 +6,25 @@ This project presents an end-to-end data analytics solution using Microsoft Exce
 ---
 
 ## 🧹 Data Cleaning & Preparation Pipeline
-The raw dataset (`Messy_HR_Dataset_Detailed`) contained unformatted columns, raw dates, missing values, and unstructured text. The dataset was transformed into `Clean-HR-Dataset-Detailed` using the following steps:
+The raw dataset contained unformatted columns, raw dates, missing values, and unstructured text. The dataset was transformed into a clean, structured layout using systematic data sanitization techniques.
 
-1. **Standardization & Structure:** Unified job titles, dates, pay zones, and department names across all employee records.
-2. **Conditional Formatting:**
-   - Visual indicators applied to **Current Employee Rating** and **Performance Score**.
-   - Color scale formatting applied to **Engagement Score** and **Satisfaction Score**.
-   - Highlight rules implemented for **Training Duration (Days)** and **Training Outcome Status**.
+### 1. Messy Dataset (Raw Input)
+![Messy HR Dataset](https://raw.githubusercontent.com/your-username/hr-analytics-performance-dashboard/main/images/messy_data.png)
+
+### 2. Cleaned Dataset with Conditional Formatting
+![Clean HR Dataset](https://raw.githubusercontent.com/your-username/hr-analytics-performance-dashboard/main/images/clean_data.png)
+
+**Key Cleaning & Formatting Steps:**
+- **Standardization & Structure:** Unified job titles, dates, pay zones, and department names across all employee records.
+- **Conditional Formatting Rules:**
+  - Data bars and visual indicators applied to **Current Employee Rating** and **Performance Score**.
+  - Color scale formatting applied to **Engagement Score** and **Satisfaction Score**.
+  - Highlight rules implemented for **Training Duration (Days)** and **Training Outcome Status**.
+
+---
+
+## 🖥️ Executive Interactive Dashboard
+![HR Analytics Dashboard](https://raw.githubusercontent.com/your-username/hr-analytics-performance-dashboard/main/images/dashboard.png)
 
 ---
 
