@@ -12,7 +12,7 @@ The raw dataset contained unformatted columns, raw dates, missing values, and un
 ![Messy HR Dataset](https://github.com/mbilalb181/Hr-Analytics-Performance-Dashboard./blob/main/Screenshot%20of%20Messy%20Data.png)
 
 ### 2. Cleaned Dataset with Conditional Formatting
-![Clean HR Dataset](https://raw.githubusercontent.com/your-username/hr-analytics-performance-dashboard/main/images/clean_data.png)
+![Clean HR Dataset](https://github.com/mbilalb181/Hr-Analytics-Performance-Dashboard./blob/main/Screenshot%20of%20Clean%20Data.png)
 
 **Key Cleaning & Formatting Steps:**
 - **Standardization & Structure:** Unified job titles, dates, pay zones, and department names across all employee records.
